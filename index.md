@@ -35,9 +35,9 @@ HelloWorld("Yilian Zhang", "a great semester!")
 
 
 ### Computer systems
-|Basic structure | A mini computer Raspberry Pi| 
-|----------------|-----------------------------|
-|![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)|
+ Basic structure | A mini computer Raspberry Pi 
+ ----------------|-----------------------------
+ ![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)
 
 ### Web and Network
 
