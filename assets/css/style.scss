@@ -5,20 +5,30 @@
 
 em{
     
-    font-size: 200%;
+    font-size: 150%;
 }
 
 
 strong{
-    font-size: 120%;
+    font-size: 110%;
 }
 
 
-.wrapper{
-     width: 80%;
+section{
+     width: 700px;
+}
+
+#banner{
+    right: 40%;
+    background: #c7e0f4;
+    border-color: #007864;
+}
+
+#banner #logo{
+background: url(../images/usca.png);
 }
 
 header{
 
-    background-color: burlywood;
+    background-color: #262626;
 }
