@@ -31,7 +31,7 @@ HelloWorld("Yilian Zhang", "a great semester!")
 ###Computer systems
 Basci structure | A mini computer Raspberry Pi 
 ----------------|------------------------------
-![structure](./basci_structure.png)|![mincomputer](./basci_structure.png)
+![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)
 
 ###Web and Network
 
