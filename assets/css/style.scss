@@ -3,7 +3,22 @@
 
 @import "{{ site.theme }}";
 
-i{
-    color: red;
+em{
+    
     font-size: 200%;
+}
+
+
+strong{
+    font-size: 120%;
+}
+
+
+.wrapper{
+     width: 80%;
+}
+
+header{
+
+    background-color: burlywood;
 }

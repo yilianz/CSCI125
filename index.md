@@ -29,7 +29,7 @@ You may find more students resource [here](https://www.cs.hmc.edu/twiki/bin/view
 
 ### Programming Language-python
 
-Snapshot of python "Hello World"
+#### Snapshot of python "Hello World"
 
 ```python
 def HelloWorld(username, message):
@@ -40,12 +40,16 @@ HelloWorld("Yilian Zhang", "a great semester!")
 
 
 ### Computer systems
- ![structure](./basic_structure.png) 
+#### Basic Structure
+  ![structure](./basic_structure.png) 
+#### Mini Computers
+  
   ![mincomputer](./mincomputer.jpg) 
 
 ### Web and Network
 
 
+#### JavaScript
 
 ```javascript
 var name="world";
@@ -53,7 +57,7 @@ var message = "Hello "+name;
 alert(message);
 ```
 
-
+#### HTML
 ```html
 <h1> HTML is a markup language </h1>
 <p> It is not a real programming language </p>
