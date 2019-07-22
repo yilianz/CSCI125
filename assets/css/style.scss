@@ -25,8 +25,24 @@ section{
 }
 
 #banner #logo{
-background: url(../images/usca.png);
+    width:100px;
+    right:15px;
+    top: 9px;
+    background: url(../images/usca.png);
 }
+
+#banner a:hover{
+    background-color: #479683;
+}
+
+#banner .fork{
+    background-color: #f1f0f3;
+}
+
+#banner .button{
+    border: 1px solid #fbe7d2;
+}
+
 
 header{
 
