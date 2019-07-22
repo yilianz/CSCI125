@@ -1,9 +1,9 @@
 ---
 ---
 
-@import 'jekyll-theme-leap-day';
+@import "{{ site.theme }}";
 
 i{
     color: red;
-    font-size: 150%;
+    font-size: 200%;
 }

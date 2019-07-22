@@ -46,7 +46,7 @@ HelloWorld("Yilian Zhang", "a great semester!")
 
 ### Web and Network
 
-<table><tbody><tr><th>HTML </th> <th>JavaScript </td></tr><tr><td>
+<table><tbody><tr><th>JavaScript </th> <th>HTML </td></tr><tr><td>
 
 ```javascript
 var name="world";
