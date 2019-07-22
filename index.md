@@ -1,6 +1,6 @@
 ---
 title:  Main page of CSCI125
-layout: default
+layout: post
 ---
 
 
