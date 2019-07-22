@@ -28,21 +28,26 @@ HelloWorld("Yilian Zhang", "a great semester!")
 ```
 
 
-###Computer systems
+### Computer systems
 Basci structure | A mini computer Raspberry Pi 
 ----------------|------------------------------
 ![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)
 
-###Web and Network
+### Web and Network
 
 
-###Security
+### Security
 
 
-###Vision and graphics
+### Vision and graphics
 
 
-###Database systems
+### Database systems
 
 
-###Artificial intelligence
+### Artificial intelligence
+
+
+### Support or Contact
+
+Having trouble with Course? Check out our [documentation](https://www.github.com/yilianz/CSCI125) or [contact instructor](yilianz@usca.edu) @yilianz and we’ll help you sort it out.
