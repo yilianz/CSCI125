@@ -1,3 +1,9 @@
+---
+title:  Main page of CSCI125
+layout: default
+---
+
+
 > ## “Simple things should be simple, complex things should be possible.” ― Alan Kay 
 
 ### About Me
@@ -29,9 +35,9 @@ HelloWorld("Yilian Zhang", "a great semester!")
 
 
 ### Computer systems
-Basci structure | A mini computer Raspberry Pi 
-----------------|------------------------------
-![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)
+|Basic structure | A mini computer Raspberry Pi| 
+|----------------|-----------------------------|
+|![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)|
 
 ### Web and Network
 
@@ -50,4 +56,9 @@ Basci structure | A mini computer Raspberry Pi
 
 ### Support or Contact
 
-Having trouble with Course? Check out our [documentation](https://www.github.com/yilianz/CSCI125) or [contact instructor](yilianz@usca.edu) @yilianz and we’ll help you sort it out.
+Having trouble with Course? Check out our [documentation](https://www.github.com/yilianz/CSCI125) or [contact instructor](yilianz@usca.edu) @yilianz and we’ll help you sort it out. 
+
+```
+Enjoy!
+
+```
