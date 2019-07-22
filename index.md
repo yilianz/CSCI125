@@ -1,6 +1,6 @@
->#“Simple things should be simple, complex things should be possible.” ― Alan Kay 
+> ## “Simple things should be simple, complex things should be possible.” ― Alan Kay 
 
-###About Me
+### About Me
 
 <!-- Please write a short pargraph about you -->
 
@@ -11,7 +11,7 @@
 <!--end of modification -->
 
 ### Text Book 
-**[CS For All by Christine Alvarado, Zachary Dodds, Geoff Kuenning, Ran Libeskind-Hadas](https://www.cs.hmc.edu/csforallbook/) **
+** [CS For All by Christine Alvarado, Zachary Dodds, Geoff Kuenning, Ran Libeskind-Hadas](https://www.cs.hmc.edu/csforallbook/) **
 
 You may find more students resource [here](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/). 
 
