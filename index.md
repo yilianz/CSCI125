@@ -40,27 +40,27 @@ HelloWorld("Yilian Zhang", "a great semester!")
 
 
 ### Computer systems
- Basic structure | A mini computer Raspberry Pi 
- ----------------|-----------------------------
- ![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)
+ |Basic structure | A mini computer Raspberry Pi |
+ |:----------------|-----------------------------:|
+ |![structure](./basic_structure.png)|![mincomputer](./mincomputer.jpg)|
 
 ### Web and Network
 
 <table><tbody><tr><th>JavaScript </th> <th>HTML </td></tr><tr><td>
 
-```javascript
+~~~javascript
 var name="world";
 var message = "Hello "+name;
 alert(message);
-```
+~~~
 
 </td><td>
 
-```html
+~~~html
 <h1> HTML is a markup language </h1>
 <p> It is not a real programming language </p>
+~~~
 
-```
 </td></tr></tbody></table>
 
 ### Security
