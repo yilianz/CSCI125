@@ -10,14 +10,14 @@
 
 <!--end of modification -->
 
-###Text Book 
+### Text Book 
 **[CS For All by Christine Alvarado, Zachary Dodds, Geoff Kuenning, Ran Libeskind-Hadas](https://www.cs.hmc.edu/csforallbook/) **
 
 You may find more students resource [here](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/). 
 
 ## Principle Areas of Study within Computer Science
 
-###Programming Language-python
+### Programming Language-python
 
 Snapshot of python "Hello World"
 ```
