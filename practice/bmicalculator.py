@@ -20,7 +20,7 @@ heightbox.insert(0, "Enter the height")
 heightbox.pack(padx= 20, pady= 20)
 
 ## Action --- Calculate BMI
-ans = StringVar()
+ans = StringVar()     # a holder which hold the string value
 def bmi():
     w = float(weightbox.get())
     h = float(heightbox.get())
