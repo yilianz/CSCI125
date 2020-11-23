@@ -24,7 +24,8 @@ def checkgrade():
     if yourgrade >=90:
         print(yourgrade)
         ans.set("A")
-
+    elif yourgrade >=80:
+        ans.set("B")
 # Get the button
 clickbutton = tkinter.Button(mainframe,text="check", command=checkgrade)
 clickbutton.pack(padx = 20, pady = 20)
